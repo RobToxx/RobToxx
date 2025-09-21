@@ -17,7 +17,7 @@ Currently learning **German** 🇩🇪 while aiming for an internship abroad, an
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/mikrotik-%232E3A59?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
