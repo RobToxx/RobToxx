@@ -11,7 +11,7 @@ Currently learning **German** while aiming for an internship abroad, and constan
 
 ## What I use:
 ![Java](https://custom-icon-badges.demolab.com/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%2367217a.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/c%23-67217a.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
