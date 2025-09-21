@@ -12,7 +12,7 @@ Currently learning **German** 🇩🇪 while aiming for an internship abroad, an
 
 ## What I use:
 ![Java](https://img.shields.io/badge/java-%23F89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%23A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
