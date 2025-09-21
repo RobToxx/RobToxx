@@ -1,5 +1,5 @@
 # Hi there 👋
-I’m **Rob**, an ICT Engineering student from Mexic owith a passion for **programming, mathematics, and tech exploration**.  
+I’m **Rob**, an ICT Engineering student from Mexico with a passion for **programming, mathematics, and tech exploration**.  
 Currently learning **German** while aiming for an internship abroad, and constantly improving my craft in **software development**.  
 
 ## About Me:
