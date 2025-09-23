@@ -10,11 +10,11 @@ Currently learning **German** while aiming for an internship abroad, and constan
 - 🌱 Fluent in both Spanish and English. Actively studying **German**.
 
 ## What I use:
-![Java](https://custom-icon-badges.demolab.com/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://custom-icon-badges.demolab.com/badge/java-ED8B00.svg?style=for-the-badge&logo=java4&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/c%23-67217a.svg?style=for-the-badge&logo=csharp1&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://custom-icon-badges.demolab.com/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/mikrotik-%232E3A59?style=for-the-badge&logo=mikrotik&logoColor=white)
