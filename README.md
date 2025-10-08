@@ -13,6 +13,7 @@ Currently learning **German** while aiming for an internship abroad, and constan
 ![Java](https://custom-icon-badges.demolab.com/badge/java-ED8B00.svg?style=for-the-badge&logo=java4&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/c%23-67217a.svg?style=for-the-badge&logo=csharp1&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Postgres](https://custom-icon-badges.demolab.com/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
