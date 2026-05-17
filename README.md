@@ -16,10 +16,7 @@ focus:
   - Software Architecture
   - Networking
 
-languages:
-  - Spanish
-  - English
-  - German (learning)
+languages: [Spanish, English, German (learning)]
 ```
 
 ## What I use:
