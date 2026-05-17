@@ -18,7 +18,6 @@ Currently learning **German** while aiming for an internship abroad, and constan
 ![Postgres](https://custom-icon-badges.demolab.com/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![MikroTik](https://img.shields.io/badge/mikrotik-%232E3A59?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
