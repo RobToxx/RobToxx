@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I’m **Héctor** (`RobToxx`), an ICT Engineering student from Mexico focused on backend systems, software architecture, and multidisciplinary engineering projects.
-Self-taught developer interested in backend engineering, software architecture, and internal code design. I enjoy building maintainable systems and understanding how software systems and components interact, from APIs and relational databases to networking and embedded telemetry.
+Self-taught developer interested in backend engineering, software architecture, and internal code design. I enjoy building maintainable systems and understanding how software systems and components interact, from APIs and relational databases to networking and embedded systems.
 
 ## About me:
 ```yaml
