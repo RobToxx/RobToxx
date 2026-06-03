@@ -53,7 +53,7 @@ backend:
 systems:
   - Linux
   - Networking
-  - Embedded Telemetry
+  - Embedded
 
 interests:
   - Software Architecture
